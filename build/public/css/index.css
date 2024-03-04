@@ -106,12 +106,13 @@ section {
     font-size: 3.2rem;
     font-weight: 700;
     color : transparent;
-    -webkit-text-stroke: .7px var(--main-color);
+    color: rgba(0, 255, 255, 0.851);
 }
 
 .home-content p {
     font-size: 1.6rem;
     margin: 2rem 0 4rem; 
+    width: 50%;
 }
 
 .btn-box {
